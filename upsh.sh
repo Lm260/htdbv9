@@ -1,2 +1,2 @@
-curl https://raw.githubusercontent.com/Lm260/HutaoBot-MD/refs/heads/main/src/js/fastgenyt/lib/server/request.js > src/js/fastgenyt/lib/server/request.js &&
-curl https://raw.githubusercontent.com/Lm260/HutaoBot-MD/refs/heads/main/assets/users/family.json > assets/users/family.json
+curl https://raw.githubusercontent.com/Lm260/HutaoBot-MD/refs/heads/main/index.js &&
+curl https://raw.githubusercontent.com/Lm260/HutaoBot-MD/refs/heads/main/dono/message.js
